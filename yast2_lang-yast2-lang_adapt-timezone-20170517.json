@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "yast2-lang_adapt-timezone"
+  ],
+  "area": [
+    {
+      "xpos": 145,
+      "ypos": 281,
+      "width": 61,
+      "height": 26,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
