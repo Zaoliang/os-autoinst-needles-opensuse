@@ -1,0 +1,32 @@
+{
+  "area": [
+    {
+<<<<<<< HEAD
+      "xpos": 472,
+      "ypos": 457,
+      "width": 80,
+      "height": 39,
+      "type": "match",
+      "match": 86,
+      "click_point": {
+        "xpos": 40,
+        "ypos": 19.5
+=======
+      "xpos": 477,
+      "ypos": 465,
+      "width": 68,
+      "height": 24,
+      "type": "match",
+      "match": 86,
+      "click_point": {
+        "xpos": 34,
+        "ypos": 12
+>>>>>>> Add some needles for adjustment of seahorse
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "unlock"
+  ]
+}

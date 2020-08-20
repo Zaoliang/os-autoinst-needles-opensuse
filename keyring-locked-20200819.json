@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 391,
+<<<<<<< HEAD
+      "ypos": 395,
+      "width": 268,
+      "height": 49,
+=======
+      "ypos": 394,
+      "width": 255,
+      "height": 57,
+>>>>>>> Add some needles for adjustment of seahorse
+      "type": "match",
+      "match": 86
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "seahorse-keyring-locked"
+  ]
+}
